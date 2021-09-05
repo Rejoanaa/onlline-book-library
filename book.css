@@ -1,0 +1,21 @@
+body{
+    /* background-color: burlywood; */
+    background-image: url('images/bg.jpg')  !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image{
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+    border-radius: 10px;
+    padding: 10px;
+}
+.my-text{
+    color: white;
+}
+.book-text{
+    color: rgb(36, 80, 80);
+}
